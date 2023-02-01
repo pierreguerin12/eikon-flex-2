@@ -21,7 +21,11 @@
 }
 
 /* 5. exercice-align-1 */
-
+.exercice-align-1 .container{
+  display:flex;
+  align-items: center;
+  flex-direction: row;
+}
 
 /* 6. exercice-align-2 */
 

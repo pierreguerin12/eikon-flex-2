@@ -36,6 +36,11 @@
 
 /* 7. exercice-align-3 */
 
+.exercice-align-3 .container{
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+}
 
 /* 8. exercice-all-1 */
 

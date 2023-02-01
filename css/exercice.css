@@ -55,4 +55,9 @@
 }
 
 /* 9. exercice-all-2 */
-
+.exercice-all-2 .container{
+  display:flex;
+  align-items: center;
+  flex-direction: column-reverse;
+  justify-content: center
+}
